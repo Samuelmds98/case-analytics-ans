@@ -56,7 +56,7 @@ project/
 
 ## 📋 Como Avaliar Tecnicamente
 
-Todo o racional de modelagem detalhada, justificativas de adoção de _Features_ (`ADRs`) e documentações do pipeline encontram-se sumarizados na pasta **`docs/`**. Sugiro que um Tech Lead examine-os, em ênfase o `transform_technical_docs.md`.
+Todo o racional de modelagem detalhada, justificativas de adoção de _Features_ (`ADRs`), documentações do pipeline e painel encontram-se sumarizados na pasta **`docs/`**. Sugiro que um Tech Lead examine-os.
 
 **Replicação do Pipeline Local:**
 ```bash
