@@ -1,0 +1,22 @@
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+db/*.duckdb
+db/*.duckdb.wal
+data/raw/*.csv
+*.parquet
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore test and notes folders
+test/
+notes/
+
+# Ignore images
+*.png
+*.jpeg
+*.jpg
